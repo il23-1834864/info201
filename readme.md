@@ -3,3 +3,4 @@
 - Greek yogurt
 - Banana
 - Granola
+- Blueberry
